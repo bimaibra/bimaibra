@@ -1,5 +1,6 @@
 # 💫 About Me:
-Informatics student and passionate developer focusing on web, mobile, and Arch-based Linux environments. I don't just execute code—I actively break things down to understand exactly how they work under the hood. Always eager to learn, build, and grow.
+Informatics student and passionate developer focusing on web, mobile, and Arch-based Linux environments. 
+Always eager to learn, build, and grow.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bimaibrahim107@gmail.com) 
