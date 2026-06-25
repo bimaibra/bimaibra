@@ -10,7 +10,7 @@ Informatics student and passionate developer focusing on web, mobile, and Arch-b
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=bimaibra&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=bimaibra&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=bimaibra&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bimaibra&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
